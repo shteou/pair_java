@@ -8,4 +8,4 @@ GBP: 0.25%
 
 EUR: 0.75%
 
-You're requested to implement a java application that takes an array of payments (see ./input.rb) and and returns an array of payments containing the commission fee for each payment (see ./output.rb). The solution has to be developed following a TDD approach.
+You're requested to implement a java application that takes an array of payments (see ./input.txt) and and returns an array of payments containing the commission fee for each payment (see ./output.rb). The solution has to be developed following a TDD approach.
